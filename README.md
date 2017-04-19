@@ -1,4 +1,7 @@
-# test coverage for  [crawler-js (v2.0.1)](http://github.com/CrawlerJS/CrawlerJS)  [![npm package](https://img.shields.io/npm/v/npmtest-crawler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crawler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crawler-js.svg)](https://travis-ci.org/npmtest/node-npmtest-crawler-js)
+# npmtest-crawler-js
+
+#### basic test coverage for  [crawler-js (v2.0.1)](http://github.com/CrawlerJS/CrawlerJS)  [![npm package](https://img.shields.io/npm/v/npmtest-crawler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crawler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crawler-js.svg)](https://travis-ci.org/npmtest/node-npmtest-crawler-js)
+
 #### Opensource Framework Crawler in Node.js
 
 [![NPM](https://nodei.co/npm/crawler-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/crawler-js)
